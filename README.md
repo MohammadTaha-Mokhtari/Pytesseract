@@ -101,3 +101,6 @@ python ocr_script.py
 * Add a GUI (with PyQt or Tkinter)
 * Support image preprocessing options (e.g., noise removal, thresholding)
 
+
+**Created by MohammadTaha Mokhtari.**
+
